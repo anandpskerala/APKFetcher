@@ -31,7 +31,7 @@ app = Client("mybot", bot_token=os.environ.get("TOKEN"), api_id=os.environ.get("
 #Iprint(f)     
 sadmin = "off"
 madmin = "off"
-sudoers = [197005208, 409257769, 440287996]
+sudoers = [646146866]
 help_text = "📥 <b> Welcome to Apkfetcher Download Portal </b>\n\n " \
             "This bot keeps a database of a large collection of android " \
             "apps and games, obb, modded apps, cracked apps and games.\n\n" \
@@ -52,7 +52,7 @@ help_text = "📥 <b> Welcome to Apkfetcher Download Portal </b>\n\n " \
             "/feedback - Send your feedback\n" \
             "/about - Display Bots basic info\n" \
             "/cancel - Cancel current operation\n\n" \
-            "💌 Contributions via @Bfas237botdevs" 
+            "💌 Contributions via @keralasbots" 
 
 
 admin_help_text = "\n\n" \
